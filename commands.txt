@@ -1,0 +1,20 @@
+//adicionar a biblioteca de estilos
+yarn add styled-components
+
+//adicionar a tipagem do styled-components
+yarn add @types/styled-components
+
+//biblioteca de ícones
+yarn add react-icons
+
+//biblioteca para manipular cores
+yarn add polished
+
+//biblioteca de gerenciamento de formulario
+yarn add @unform/core @unform/web
+
+//biblioteca de validação das informações do formulario
+ yarn add yup
+
+//pacote de dependencias
+ yarn add @types/yup
