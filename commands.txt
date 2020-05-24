@@ -18,3 +18,18 @@ yarn add @unform/core @unform/web
 
 //pacote de dependencias
  yarn add @types/yup
+
+ //biblioteca utilizada para consumir api's
+ yarn add axios
+
+ //lib para criar ID's
+  yarn add uuidv4
+
+//biblioteca de efeito
+yarn add react-spring
+
+//pacote de rotas
+yarn add react-router-dom
+
+//adicionar as tipagens
+yarn add @types/react-router-dom
